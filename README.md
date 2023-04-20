@@ -32,7 +32,7 @@ Backend вы можете либо написать сами, либо взят�
 1. После чего делается запрос на получение всех записей и происходит обновление списка — GET http://localhost:7777/notes.
 
 
-[![Build status](https://ci.appveyor.com/api/projects/status/g6bb55s7392bpre0?svg=true)](https://ci.appveyor.com/project/bel-lov/Curd1)
+[![Build status](https://ci.appveyor.com/api/projects/status/g6bb55s7392bpre0?svg=true)](https://ci.appveyor.com/project/bel-lov/Crud1)
 
 
-## https://bel-lov.github.io/Curd1/
+## https://bel-lov.github.io/Crud1/
